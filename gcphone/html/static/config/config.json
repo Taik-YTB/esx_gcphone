@@ -1,0 +1,182 @@
+{
+  "reseau": "Vidéotron",
+  "background" : {
+    "Calvin & Hobbes": "back001.jpg",
+    "Destiny": "back002.jpg",
+    "Guitare": "01.jpg",
+    "Los Santos": "02.jpg",
+    "Poursuite": "03.jpg",
+    "Franklin": "04.jpg",
+    "Police boom": "05.jpg",
+    "Trevor & Michael": "06.jpg",
+    "San Andreas": "07.jpg",
+    "Cité": "08.jpg",
+    "Ciel & Forêt": "09.jpg",
+    "Forêt Colorer": "10.jpg",
+    "Vague Géante": "11.jpg",
+    "Lion": "12.jpg",
+    "Planète": "13.jpg",
+    "Rose": "14.jpg",
+    "Bleu": "15.jpg",
+    "Noir": "16.jpg",
+    "Chocolat": "17.jpg",
+    "Assassins Creed": "18.jpg",
+    "Stalactite": "19.jpg",
+    "Origin": "20.jpg",
+    "Pacman": "21.jpg",
+    "Custom": "URL"
+  },
+  "background_default": {
+    "label": "Calvin & Hobbes",
+    "value": "back001.jpg"
+  },
+  "coque": {
+    "Iphone X": "iphonex.png"
+  },
+  "coque_default": {
+    "label": "Iphone X",
+    "value": "iphonex.png"
+  },
+  "serviceCall": [
+    {
+      "display": "Police",
+      "icon": "/html/static/img/icons_app/policier.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "police"
+        }
+      ]
+    },
+    {
+      "display": "Ambulance",
+	  "icon": "/html/static/img/icons_app/ambulancier.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "ambulance"
+        }
+      ]
+    },
+    {
+      "display": "Taxi",
+	  "icon": "/html/static/img/icons_app/taxi.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "taxi"
+        }
+      ]
+    },
+    {
+      "display": "Mecano",
+	  "icon": "/html/static/img/icons_app/mecano.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "mecano"
+        }
+      ]
+    },
+    {
+	  "display": "FIB",
+	  "icon": "/html/static/img/icons_app/fib.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "fib"
+        }
+      ]
+    },
+    {
+      "display": "Gouvernement",
+	  "icon": "/html/static/img/icons_app/state.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "state"
+        }
+      ]
+    },
+    {
+      "display": "Bahamas",
+	  "icon": "/html/static/img/icons_app/bahama.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "bahama"
+        }
+      ]
+    },
+    {
+      "display": "Pilot",
+	  "icon": "/html/static/img/icons_app/pilot.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "pilot"
+        }
+      ]
+    },
+    {
+      "display": "Agent Immobilier",
+	  "icon": "/html/static/img/icons_app/agent.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "realestateagent"
+        }
+      ]
+    },
+    {
+      "display": "Épicier",
+	  "icon": "/html/static/img/icons_app/epicerie.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "epicerie"
+        }
+      ]
+    },
+    {
+      "display": "US.Army",
+	  "icon": "/html/static/img/icons_app/army.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "army"
+        }
+      ]
+    },
+    {
+      "display": "Unicorn",
+	  "icon": "/html/static/img/icons_app/unicorn.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "unicorn"
+        }
+      ]
+    },
+    {
+      "display": "Brinks",
+	  "icon": "/html/static/img/icons_app/brinks.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "brinks"
+        }
+      ]
+    },
+    {
+      "display": "Journaliste",
+	  "icon": "/html/static/img/icons_app/journaliste.png",
+      "subMenu": [
+        {
+		  "title": "Envoyer un message",
+          "eventName": "journaliste"
+        }
+      ]
+    }
+  ]
+}
