@@ -6,3 +6,10 @@
 "INSERT INTO items VALUES ('109', 'phone', 'telephone', '-1', '0', '1');"
 
 "INSERT INTO shops (id, name, item, price) VALUES (98, 'TwentyFourSeven', 'phone', 175), (99, 'RobsLiquor', 'phone', 175), (100, 'LTDgasoline', 'phone', 175);"
+
+**Installation**
+1- Mettez votre vdk_call et gcphone dans le dossier ressource
+2- Dans votre server.cfg, vous mettez :
+start vdk_call
+start gcphone
+3- Enjoy!
