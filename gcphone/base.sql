@@ -14,7 +14,6 @@
 
 ALTER TABLE `users`
 	ADD COLUMN `phone_number` VARCHAR(10) NULL;
-) ENGINE=InnoDB AUTO_INCREMENT=28 DEFAULT CHARSET=utf8;
 
 
 -- Export de la structure de la table gtarp. phone_app_chat
