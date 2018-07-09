@@ -23,4 +23,4 @@
  
 https://cdn.discordapp.com/attachments/398255059063930882/460122149659738113/chat.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121588612988928/urgence.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121550004289558/supprime.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121521982144522/phone.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121472342687785/parametre.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121429871165440/home.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121399143563280/historique.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121340700000296/bank.PNG https://cdn.discordapp.com/attachments/398255059063930882/460121315450290178/appel.PNG
 
-Je remercie fortement Ganon pour le partage du nouveau Gcphone et grâce à mon ancien gcphone j'ai réussi à le transférer en ESX facilement!
+Je remercie fortement Gannon pour le partage du nouveau Gcphone et grâce à mon ancien gcphone j'ai réussi à le transférer en ESX facilement!
