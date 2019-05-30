@@ -1,5 +1,5 @@
 # esx_gcphone
-[FR] GcPhone en ESX avec appelle et VDK_CALL !! Vous mettez ceci dans vos tenue de vos jobs ESX comme exemple (Vous mettez sa quand vous avez la jobs dans les appelles urgences du gcphone) : "(Important de le mettre dans la tenue civil) TriggerServerEvent("player:serviceOff", "police")" ET "(Dans vos tenue de service) TriggerServerEvent("player:serviceOn", "police"). Vous pouvez aussi en rajoutez ou en modifier les jobs qui sont dans le gcphone en allant dans le config.json et dans main.lua, tout en bas du main.lua, il y aura, exemple : Vous avez appellé la Police
+[FR] GcPhone en ESX avec appelle et VDK_CALL !! Vous êtes obligé de mettre ces prises de service dans vos tenues de tout les jobs qui seront dans votre gcphone!! : "(Important de le mettre dans la tenue civil) TriggerServerEvent("player:serviceOff", "NOMDEVOTREJOB")" ET "(Dans vos tenue de service) TriggerServerEvent("player:serviceOn", "NOMDEVOTREJOB"). Vous pouvez aussi en rajoutez ou en modifier dans vos gcphone : gcphone/html/static/config/config.json et ne pas oubliez d'allez dans : gcphone/client/client.lua et ligne 518. Dans le vdk_call, si vous rajoutez une appelle dans le gcphone, vous devrez aller dans : vdk_call/call.lua et ligne 62 et aussi vdk_call/call_server.lua et ligne 6 à 37.
 
  **IMPORTANT** :
 
